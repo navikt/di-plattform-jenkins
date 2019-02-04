@@ -1,2 +1,3 @@
-# dvhplattform-jenkins
-DVH-plattform sin Jenkinsfile
+# DI-plattform-jenkins
+
+DI-plattform sin Jenkinsfile
